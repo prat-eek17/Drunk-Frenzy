@@ -1,4 +1,4 @@
-# Drunk-Frenzy
+# Dunk-Frenzy
 Dunk Frenzy Tap to score! Guide the ball into the net before time runs out in this fast-paced, addictive game. Perfect for anyone who loves a good challenge!
 
 🎮 Gameplay Dunk Frenzy is all about precision and timing. Tap the screen to make the ball go up, and navigate it into the net. As you progress, the timer speeds up, pushing your reflexes to the limit.
